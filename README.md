@@ -19,6 +19,7 @@ O objetivo é demonstrar:
 
 Esse é um excelente exemplo de arquitetura WebSocket moderna e minimalista.
 
+```
 ⭐ Demonstração do Fluxo (Diagrama)
            ┌────────────────────────────────────────┐
            │               CLIENTE                   │
@@ -43,7 +44,7 @@ Esse é um excelente exemplo de arquitetura WebSocket moderna e minimalista.
            │  • socket.emit()                       │
            │  • handle sendMessage, sendLocation    │
            └────────────────────────────────────────┘
-
+```
 📁 Estrutura do Projeto
 realtime-chat-websockets/
 │
