@@ -45,6 +45,8 @@ Esse é um excelente exemplo de arquitetura WebSocket moderna e minimalista.
            │  • handle sendMessage, sendLocation    │
            └────────────────────────────────────────┘
 ```
+
+```
 📁 Estrutura do Projeto
 realtime-chat-websockets/
 │
@@ -67,7 +69,7 @@ npm install
 
 2. Rodar a aplicação
 node index.js
-
+```
 
 A aplicação abrirá na porta:
 
