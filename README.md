@@ -17,8 +17,6 @@ O objetivo é demonstrar:
 
 🕒 Timestamps formatados com Moment.js
 
-Esse é um excelente exemplo de arquitetura WebSocket moderna e minimalista.
-
 ```
 ⭐ Demonstração do Fluxo (Diagrama)
            ┌────────────────────────────────────────┐
@@ -141,7 +139,7 @@ Ao desconectar, servidor emite “A user has left”
 
 📄 MIT License
 
-(já formatada e preparada para o repositório)
+
 
 MIT License
 
